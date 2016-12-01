@@ -1,5 +1,5 @@
 {
-  "name": "devgeniem/wp-exhale",
+  "name": "JuhaniGeniem/wp-exhale",
   "type": "wordpress-muplugin",
   "license": "MIT",
   "description": "Creates Developer friendly xml api endpoint for 3rd party integrations on your data.",
